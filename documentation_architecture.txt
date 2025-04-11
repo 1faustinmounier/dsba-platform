@@ -1,0 +1,52 @@
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/api/api.py
+  Function: list_models
+  Function: predict
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/model_evaluation.py
+  Function: evaluate_classifier
+  Function: plot_classification_metrics
+  Function: plot_confusion_matrix
+  Function: visualize_classification_evaluation
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/model_training.py
+  [model_training.py file has been ignored because it uses relative imports with no known parent.]
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/__init__.py
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/preprocessing.py
+  Function: preprocess_dataframe
+  Function: split_dataframe
+  Function: split_features_and_target
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/model_comparison.py
+  [model_comparison.py file has been ignored because it uses relative imports with no known parent.]
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/model_prediction.py
+  Function: _check_target_column
+  Function: classify_dataframe
+  Function: classify_record
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/model_registry.py
+  Function: _get_absolute_path
+  Function: _get_model_metadata_path
+  Function: _get_model_path
+  Function: _get_models_dir
+  Function: _list_pickle_files
+  Function: _load_model_from_path
+  Function: _remove_file_extension
+  Function: list_models_ids
+  Function: load_model
+  Function: load_model_metadata
+  Function: save_model
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/data_ingestion/files.py
+  Function: load_csv_from_path
+  Function: load_csv_from_url
+  Function: write_csv_to_path
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/data_ingestion/databases.py
+  Function: query_postgres
+
+File: /Users/victorabsil/Desktop/EssecxCentrale/mlops/Project/dsba-platform/src/dsba/data_ingestion/__init__.py
+  [__init__.py file has been ignored because it uses relative imports with no known parent.]
