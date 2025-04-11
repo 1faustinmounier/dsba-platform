@@ -1,0 +1,1 @@
+{"id": "titanic_random_forest", "created_at": "2025-04-11 12:27:24.539456", "algorithm": "random_classifier", "hyperparameters": {}, "target_column": "Survived", "description": "randomly predict 0 or 1", "performance_metrics": {}}

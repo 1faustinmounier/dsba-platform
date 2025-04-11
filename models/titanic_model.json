@@ -1,0 +1,1 @@
+{"id": "titanic_model", "created_at": "2025-04-11 12:27:18.663498", "algorithm": "xgboost", "hyperparameters": {"random_state": 42}, "target_column": "Survived", "description": "", "performance_metrics": {}}
